@@ -27,6 +27,9 @@
  * 
  * if YES: start the game again with the same hidden letter
  * if NO: end the game.
+ * 
+ * 
+ * also keep track of how many times the user played the game
  */
 
 

@@ -29,7 +29,8 @@
  * if NO: end the game.
  * 
  * 
- * also keep track of how many times the user played the game
+ * also keep track of how many times the user played the game, each new game reset the number of times
+ * it took the user to win the game
  */
 
 
